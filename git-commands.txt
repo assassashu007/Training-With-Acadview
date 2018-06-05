@@ -1,0 +1,7 @@
+1. Git : It’s a tool/software
+2. GitHub: It’s a web service to store and share git repositories
+3. git init - To initialize a git repository
+4. git status - To check status of repository any time
+5. git add - Tell git to track your changes
+6. git commit - Tell git to create a checkpoint/version
+7. git push - To upload project to the cloud (GitHub)
