@@ -10,7 +10,7 @@ cal_area(float(input("Enter radius of circle : ")))
 
 
 
-print('\n\nQ.2- Write a function “perfect()” that determines perfect numbers between 1 and 1000.\n')
+print('\n\nQ.2- Write a function â€œperfect()â€ that determines perfect numbers between 1 and 1000.\n')
 
 
 def perfect(n):
@@ -23,6 +23,20 @@ def perfect(n):
 
 for i in range(1,1001):
     perfect(i)
+
+
+
+
+print("\n\nQ.3- Print multiplication table of 12 using recursion.\n")
+
+def table():
+    a = 1
+    while a<=10:
+        print("12  *  " + str(a) + "  =  " +str(12*a))
+        a+=1
+
+table()
+
 
 
 
