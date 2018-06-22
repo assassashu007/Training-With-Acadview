@@ -1,9 +1,9 @@
-'''
-STEP 1: Create a file named = "test.txt"
-STEP 2: Enter anything in it.
 
-NOW GET STARTED with the following....
-'''
+#     STEP 1: Create a file named = "test.txt"
+#     STEP 2: Enter anything in it.
+
+#     NOW GET STARTED with the following....
+
 
 print("Q.1- Write a Python program to read last n lines of a file\n")
 
